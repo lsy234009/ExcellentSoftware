@@ -4,7 +4,7 @@
 
 snipate
 
-2.Windows用友Mac文件预览体验
+2.Windows拥有Mac文件预览体验
 
 Seer
 
@@ -16,4 +16,6 @@ EveryThing
 
 极速pdf阅读器
 
-5.
+5.绿色版Windows卸载软件
+
+Geek uninstaller
