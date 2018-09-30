@@ -19,3 +19,13 @@ EveryThing
 5.绿色版Windows卸载软件
 
 Geek uninstaller
+
+6.视频播放器
+
+爱奇艺万能播放器
+
+7.编辑器
+
+notepad++,editplus
+
+8.
